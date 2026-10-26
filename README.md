@@ -12,6 +12,10 @@ and I build small internal tools that replace manual Excel work.
 
 ## Projects
 
+**[printer-monitor](https://github.com/tungtrue2518-del/printer-monitor)** (public)
+See every network printer on one page: toner and paper, jams, pages printed per day and a toner run-out forecast.
+Pure Python standard library, built-in SNMP client, English / Thai / Japanese.
+
 **IT Register Manager** (private, in daily use)
 An internal web app for an IT department, replacing hand-edited Excel registers.
 
