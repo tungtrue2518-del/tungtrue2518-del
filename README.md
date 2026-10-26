@@ -9,3 +9,14 @@ and I build small internal tools that replace manual Excel work.
 - **Code:** Python (Flask, openpyxl, pywin32), JavaScript (vanilla, no framework), HTML/CSS
 - **Tools:** Git and GitHub, Excel automation, Windows Task Scheduler, PowerShell
 - **Languages:** Thai, English, Japanese (basic)
+
+## Projects
+
+**IT Register Manager** (private, in daily use)
+An internal web app for an IT department, replacing hand-edited Excel registers.
+
+- One site for consumables stock, equipment register, UPS battery schedule, IT requests, IP address plan and purchase documents
+- Writes back into the original Excel files, so the workbooks stay the source of truth
+- Live printer status: toner, paper trays, alerts and a toner run-out forecast
+- Change history with real staff names, daily verified backups, a watchdog that restarts the server
+- Thai / English / Japanese interface
