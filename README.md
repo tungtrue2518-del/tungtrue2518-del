@@ -26,7 +26,8 @@ I enjoy learning new things and try to pick up one new skill with every project.
 
 ## Hardware and network
 
-- PC assembly and upgrades, Windows setup and imaging, laptops and peripherals
+- Repairing desktop PCs and laptops: diagnosing faults and replacing parts (RAM, SSD / HDD, power supply, screen, keyboard, battery)
+- PC assembly and upgrades, Windows setup and imaging, peripherals
 - LAN cabling and termination, patch panels, switches and Wi-Fi, IP address planning
 - Network printers (toner, jams, monitoring), UPS checks and battery replacement
 
@@ -75,6 +76,7 @@ AI ช่วยแปลงแนวคิดเป็นโค้ดที่�
 - ตั้งค่างานสำรองข้อมูลและกู้คืนข้อมูลด้วย Hyper Backup
 
 **งานฮาร์ดแวร์และเครือข่าย**
+- ซ่อมคอมพิวเตอร์ตั้งโต๊ะและโน้ตบุ๊ก ตรวจหาสาเหตุอาการเสีย และเปลี่ยนอะไหล่ เช่น RAM, SSD / HDD, Power Supply, จอ, คีย์บอร์ด และแบตเตอรี่
 - ประกอบและอัปเกรดคอมพิวเตอร์ ติดตั้งระบบปฏิบัติการ Windows
 - เดินสาย LAN เข้าหัว Patch Panel ตั้งค่า Switch และ Wi-Fi วางแผน IP Address
 - ดูแลเครื่องพิมพ์เครือข่ายและเครื่องสำรองไฟ (UPS)
