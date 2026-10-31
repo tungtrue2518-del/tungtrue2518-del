@@ -1,6 +1,7 @@
 # Hi, I'm Tung
 
 IT Support in Thailand who also writes software for the team.
+Currently studying at Southeast Asia University (SAU).
 I keep the office running (servers, NAS, network, PCs), and when a job keeps coming back
 as manual Excel work, I turn it into a small web app.
 
@@ -57,6 +58,7 @@ An internal web app for our IT department, replacing hand-edited Excel registers
 ## ภาษาไทย
 
 สวัสดีครับ ผมชื่อตัง ทำงานด้าน IT Support ในประเทศไทย
+ปัจจุบันกำลังศึกษาอยู่ที่มหาวิทยาลัยเอเชียอาคเนย์
 มีหน้าที่ดูแลระบบภายในสำนักงาน ได้แก่ เซิร์ฟเวอร์ NAS ระบบเครือข่าย และเครื่องคอมพิวเตอร์
 และพัฒนาเครื่องมือขนาดเล็กเพื่อลดงานที่ต้องทำด้วยมือซ้ำ ๆ ใน Excel
 
